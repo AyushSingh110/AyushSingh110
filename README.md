@@ -5,28 +5,20 @@
 💡 Interested in solving real world problems using AI data and automation<br>
 🚀 Actively building projects and participating in hackathons and internships<br><br>
 
----<br><br>
-
 ## 🔭 I’m currently working on
 - 🤖 AI driven applications using agent based systems and Generative AI<br>
 - 📊 End to end machine learning and data analysis projects<br>
 - ⚙️ Backend integration and automation for intelligent systems<br><br>
-
----<br><br>
 
 ## 👯 I’m looking to collaborate on
 - 🤝 AI and Machine Learning projects<br>
 - 🧠 Generative AI and Agentic AI applications<br>
 - 🌍 Open source projects related to data science and automation<br><br>
 
----<br><br>
-
 ## 🛠️ I’m looking for help with
 - 📈 Scaling AI applications for real world use<br>
 - 🧩 System design for production level AI solutions<br>
 - 🚀 Best practices for deploying machine learning models<br><br>
-
----<br><br>
 
 ## 🌱 I’m currently learning
 - ✨ Advanced Generative AI techniques<br>
@@ -34,25 +26,18 @@
 - ☁️ Cloud platforms for AI workloads<br>
 - 📦 Model deployment and MLOps Dagshub and BentoML fundamentals<br><br>
 
----<br><br>
-
 ## 💬 Ask me about
 - 🐍 Python and Machine Learning fundamentals<br>
 - 📉 Data analysis and visualization<br>
 - 🤖 AI agents and Generative AI basics<br>
 - 🏁 Hackathons internships and project based learning<br><br>
 
----<br><br>
-
 ## 🏆 Experience and Activities
 - 🧑‍💻 Internship experience in application development<br>
 - 🌟 Participated in the 5 day Agentic AI event by Google and built a capstone project<br><br>
 
----<br><br>
-
 ## ⚡ Fun fact
 🏐 I enjoy combining technology with teamwork whether it is building AI projects or participating in hackathons<br><br>
-
 
 
 ## 🌐 Socials:
