@@ -1,26 +1,21 @@
-# 💫 About Me:
+# About Me:
 <br>👋 Hi I am <b>Ayush Singh</b><br><br>
 
 🎓 Computer Science Engineering student specializing in Artificial Intelligence and Data Science<br>
 💡 Interested in solving real world problems using AI data and automation<br>
 🚀 Actively building projects and participating in hackathons and internships<br><br>
 
-## 🔭 I’m currently working on
+## I’m currently working on
 - 🤖 AI driven applications using agent based systems and Generative AI<br>
 - 📊 End to end machine learning and data analysis projects<br>
 - ⚙️ Backend integration and automation for intelligent systems<br><br>
 
-## 👯 I’m looking to collaborate on
-- 🤝 AI and Machine Learning projects<br>
-- 🧠 Generative AI and Agentic AI applications<br>
-- 🌍 Open source projects related to data science and automation<br><br>
-
-## 🛠️ I’m looking for help with
+## Areas I’m Seeking Guidance In
 - 📈 Scaling AI applications for real world use<br>
 - 🧩 System design for production level AI solutions<br>
 - 🚀 Best practices for deploying machine learning models<br><br>
 
-## 🌱 I’m currently learning
+##  I’m currently learning
 - ✨ Advanced Generative AI techniques<br>
 - 🧑‍🤝‍🧑 Multi agent systems and AI orchestration<br>
 - ☁️ Cloud platforms for AI workloads<br>
@@ -32,11 +27,14 @@
 - 🤖 AI agents and Generative AI basics<br>
 - 🏁 Hackathons internships and project based learning<br><br>
 
-## 🏆 Experience and Activities
+##  Experience and Activities
 - 🧑‍💻 Internship experience in application development<br>
-- 🌟 Participated in the 5 day Agentic AI event by Google and built a capstone project<br><br>
+- 🌟 Participated in the 5 day Agentic AI event by Google and built a capstone project<br>
+- 🛠️ Core member of the technical team at Next Gen Club contributing to technical initiatives and events<br>
+- 🤝 Volunteered and coordinated during university level recruitment and professional events<br><br>
 
-## ⚡ Fun fact
+
+## Fun fact
 🏐 I enjoy combining technology with teamwork whether it is building AI projects or participating in hackathons<br><br>
 
 
