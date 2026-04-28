@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- REPLACE src below with your chosen gif option -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" alt="coding gif"/>
 
 </div>
 
@@ -40,7 +40,7 @@ I enjoy working across the stack — from ML pipelines and FastAPI backends to R
 <div align="center">
 <a href="https://pytorch.org/" target="_blank"><img style="margin:8px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="40"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin:8px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img style="margin:8px" src="https://profilinator.rishav.dev/skills-assets/scikit-learn.png" alt="Scikit-learn" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank"><img style="margin:8px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40"/></a>
 <a href="https://huggingface.co/" target="_blank"><img style="margin:8px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" height="40"/></a>
 </div>
 
