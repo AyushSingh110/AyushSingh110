@@ -30,8 +30,8 @@ I enjoy working across the stack — from ML pipelines and FastAPI backends to R
 
 ## A bit about me
 
-- 🏆 Top 70 out of 1,600+ teams — MIT-WPU National Healthcare Hackathon
-- 📦 Published a Python SDK on PyPI with 280+ monthly downloads
+- 🏆 Top 70 out of 1,600+ teams — MIT-WPU National Hackathon
+- 📦 Published a Python SDK on PyPI with 948+ downloads
 - 🎓 Oracle AI Foundations + Generative AI Professional certified
 - 🛠️ Core member of NextGen Club — run AI/ML workshops for peers
 - 🤝 Always up for hackathons, open-source collabs, or just talking AI
