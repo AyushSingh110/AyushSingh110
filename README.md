@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- REPLACE src below with your chosen gif option -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/S8g9YqOKTN5G8DPvBo/giphy.gif" width="380" alt="coding gif"/>
 
 </div>
 
@@ -71,7 +71,7 @@ I enjoy working across the stack — from ML pipelines and FastAPI backends to R
 
 ## A bit about me
 
-- Top 70 out of 1,600+ teams — MIT-WPU National Healthcare Hackathon
+- Top 70 out of 1,600+ teams — MIT-WPU National Hackathon
 - Published a Python SDK on PyPI with 948+ downloads
 - Oracle AI Foundations + Generative AI Professional certified
 - Core member of NextGen Club — run AI/ML workshops for peers
