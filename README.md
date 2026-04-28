@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- REPLACE src below with your chosen gif option -->
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" alt="coding gif"/>
 
 </div>
 
