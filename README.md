@@ -1,20 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Ayush%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=AI%20%26%20Data%20Science%20Engineer&descSize=16&descAlignY=85&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" alt="coding gif"/>
 
-</div>
+<br/><br/>
 
-<br/>
+# Ayush Singh
+### AI & Data Science Engineer
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=560&lines=Building+LLM+systems+that+actually+work.;From+model+training+to+production+deployment.;Failure+detection+%E2%80%94+observability+%E2%80%94+reliability.;Always+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=580&lines=Building+LLM+systems+that+actually+work.;From+model+training+to+production+deployment.;Failure+detection+%E2%80%94+observability+%E2%80%94+reliability.;Always+shipping.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSingh110&theme=tokyo-night&hide_border=true&area=true&bg_color=transparent&point=a78bfa&line=7c3aed" width="52%" alt="contribution graph"/>
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSingh110&theme=tokyo-night&hide_border=true&area=true&bg_color=transparent&point=a78bfa&line=7c3aed&color=a78bfa" width="50%" alt="contribution graph"/>
 
 ### `whoami`
 
@@ -53,13 +52,9 @@ Shadow ensemble (Llama · DeepSeek · Qwen) → Failure Signal Vector
 → Adversarial detection via FAISS → fie-sdk on PyPI
 ```
 
-[![FIE Repo](https://img.shields.io/badge/GitHub-Failure__Intelligence__System-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/AyushSingh110/Failure_Intelligence_System)
-[![PyPI](https://img.shields.io/pypi/dm/fie-sdk?label=PyPI%20downloads&style=flat-square&color=7c3aed)](https://pypi.org/project/fie-sdk/)
-[![Live](https://img.shields.io/badge/Live-Cloud%20Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://failure-intelligence-system-800748790940.asia-south1.run.app)
-
 ---
 
-### Tech
+### Tech Stack
 
 <div align="center">
 
@@ -92,11 +87,9 @@ Shadow ensemble (Llama · DeepSeek · Qwen) → Failure Signal Vector
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AyushSingh110&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&rank_icon=github&hide_title=true" height="150"/>
+<img src="https://streak-stats.demolab.com/?user=AyushSingh110&theme=tokyonight&hide_border=true&fire=a78bfa&ring=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" height="165" alt="GitHub Streak"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSingh110&theme=tokyonight&hide_border=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSingh110&theme=tokyonight&hide_border=true&layout=compact&langs_count=7" height="130"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSingh110&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top Languages"/>
 
 </div>
 
@@ -106,14 +99,18 @@ Shadow ensemble (Llama · DeepSeek · Qwen) → Failure Signal Vector
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-singh-27a589285)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-singh-27a589285)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/ayushsingh15vns%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushsingh15vns@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/AyushSingh110-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AyushSingh110)
+[![Gmail](https://img.shields.io/badge/ayushsingh15vns%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsingh15vns@gmail.com)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+<div align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="wave"/>
+<br/>
+<em>Open to GenAI / AI Engineer internship opportunities — let's build something real.</em>
+</div>
+
+<br/>
