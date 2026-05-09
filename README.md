@@ -1,93 +1,119 @@
 <div align="center">
 
-<!-- REPLACE src below with your chosen gif option -->
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" alt="coding gif"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Ayush%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=AI%20%26%20Data%20Science%20Engineer&descSize=16&descAlignY=85&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 </div>
 
-<h1 align="center">Hey, I'm Ayush 👋</h1>
+<br/>
 
-<p align="center">
-  3rd year B.Tech student in AI & Data Science from Pune, India.<br/>
-  I like building things that actually work — not just notebooks, but deployed systems.
-</p>
-
----
-
-## What I'm into
-
-I'm mostly into **Generative AI, LLMs, and applied ML** — the kind of stuff where you're not just training a model but thinking about how it behaves, fails, and gets used in the real world.
-
-I enjoy working across the stack — from ML pipelines and FastAPI backends to React frontends — because I'd rather ship something end-to-end than hand it off halfway.
-
----
-
-## Currently exploring
-
-- LLM observability and failure detection
-- Multi-agent systems and AI orchestration
-- Deploying ML systems on cloud (GCP, Vercel, Docker)
-- MLOps fundamentals — experiment tracking, model serving
-
----
-
-## Tech Stack
-
-<table>
-<tr><td valign="top" width="33%">
-
-**ML / AI**
 <div align="center">
-<a href="https://pytorch.org/" target="_blank"><img style="margin:8px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="40"/></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin:8px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img style="margin:8px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40"/></a>
-<a href="https://huggingface.co/" target="_blank"><img style="margin:8px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" height="40"/></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=560&lines=Building+LLM+systems+that+actually+work.;From+model+training+to+production+deployment.;Failure+detection+%E2%80%94+observability+%E2%80%94+reliability.;Always+shipping.)](https://git.io/typing-svg)
+
 </div>
 
-</td><td valign="top" width="33%">
+---
 
-**Backend & APIs**
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSingh110&theme=tokyo-night&hide_border=true&area=true&bg_color=transparent&point=a78bfa&line=7c3aed" width="52%" alt="contribution graph"/>
+
+### `whoami`
+
+```yaml
+name: Ayush Singh
+role: AI/ML Engineer (pre-final year)
+university: Pimpri Chinchwad University, Pune
+focus:
+  - LLM reliability & observability
+  - Multi-agent AI systems
+  - End-to-end ML deployment
+stack: Python → FastAPI → React → GCP
+currently: Seeking GenAI / AI Engineer internships
+```
+
+<br/>
+
+### What I Build
+
+- **Production AI systems** — not demos, actual deployed infra
+- **LLM middleware** — failure detection, adversarial robustness
+- **Full-stack ML** — model training through cloud deployment
+- **Real pipelines** — FastAPI, Docker, Cloud Run, MongoDB
+
+<br clear="right"/>
+
+---
+
+### Flagship Project — Failure Intelligence Engine
+
+> *LLM reliability middleware deployed on Google Cloud Run*
+
+```
+Shadow ensemble (Llama · DeepSeek · Qwen) → Failure Signal Vector
+→ XGBoost classifier (80.5% recall) → 3-agent Diagnostic Jury
+→ Adversarial detection via FAISS → fie-sdk on PyPI
+```
+
+[![FIE Repo](https://img.shields.io/badge/GitHub-Failure__Intelligence__System-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/AyushSingh110/Failure_Intelligence_System)
+[![PyPI](https://img.shields.io/pypi/dm/fie-sdk?label=PyPI%20downloads&style=flat-square&color=7c3aed)](https://pypi.org/project/fie-sdk/)
+[![Live](https://img.shields.io/badge/Live-Cloud%20Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://failure-intelligence-system-800748790940.asia-south1.run.app)
+
+---
+
+### Tech
+
 <div align="center">
-<a href="https://www.python.org/" target="_blank"><img style="margin:8px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin:8px" src="https://profilinator.rishav.dev/skills-assets/fastapi.png" alt="FastAPI" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin:8px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin:8px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/></a>
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
 </div>
 
-</td><td valign="top" width="33%">
+---
 
-**Frontend & Cloud**
+### Highlights
+
+```
+🏆  Top 70 / 1,600+ teams    MIT-WPU National Healthcare Hackathon
+📦  1,800+ downloads          fie-sdk · published on PyPI
+🎓  Oracle Certified          AI Foundations + GenAI Professional
+🧑‍🏫  Core member              NextGen AI/ML Club — running peer workshops
+```
+
+---
+
+### Stats
+
 <div align="center">
-<a href="https://reactjs.org/" target="_blank"><img style="margin:8px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40"/></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin:8px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40"/></a>
-<a href="https://cloud.google.com/" target="_blank"><img style="margin:8px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin:8px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40"/></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AyushSingh110&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&rank_icon=github&hide_title=true" height="150"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSingh110&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSingh110&theme=tokyonight&hide_border=true&layout=compact&langs_count=7" height="130"/>
+
 </div>
 
-</td></tr>
-</table>
-
 ---
 
-## A bit about me
+### Connect
 
-- Top 70 out of 1,600+ teams — MIT-WPU National Hackathon
-- Published a Python SDK on PyPI with 1800+ downloads
-- Oracle AI Foundations + Generative AI Professional certified
-- Core member of NextGen Club — run AI/ML workshops for peers
-- Always up for hackathons, open-source collabs, or just talking AI
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-singh-27a589285)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/ayushsingh15vns%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushsingh15vns@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/AyushSingh110-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AyushSingh110)
 
-## Find me here
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-singh-27a589285)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ayushsingh15vns@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AyushSingh110)
+<br/>
 
----
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AyushSingh110&theme=dracula&hide_border=true&show_icons=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSingh110&theme=dracula&hide_border=true&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
