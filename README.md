@@ -75,8 +75,8 @@ Shadow ensemble (Llama · DeepSeek · Qwen) → Failure Signal Vector
 ### Highlights
 
 ```
-🏆  Top 70 / 1,600+ teams    MIT-WPU National Healthcare Hackathon
-📦  1,800+ downloads          fie-sdk · published on PyPI
+🏆  Top 70 / 1,600+ teams    MIT-WPU National Hackathon
+📦  3,600+ downloads          fie-sdk · published on PyPI
 🎓  Oracle Certified          AI Foundations + GenAI Professional
 🧑‍🏫  Core member              NextGen AI/ML Club — running peer workshops
 ```
