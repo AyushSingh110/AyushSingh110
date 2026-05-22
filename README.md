@@ -19,7 +19,7 @@
 
 ```yaml
 name: Ayush Singh
-role: AI/ML Engineer (pre-final year)
+role: AI & DS Engineer (final year)
 university: Pimpri Chinchwad University, Pune
 focus:
   - LLM reliability & observability
