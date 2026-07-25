@@ -1,106 +1,39 @@
 # Ayush Singh
 
-> Building AI systems that are easier to trust.
+I build AI systems focused on **LLM reliability, agent evaluation, observability, and production GenAI infrastructure**.
 
-I build production AI systems at the intersection of **LLM reliability, agent evaluation, and AI infrastructure**. My work focuses on understanding **why** intelligent systems fail, improving their behaviour through measurable evaluation, and designing tooling that makes modern AI more observable and dependable.
+My work centers on a single question: how do we make intelligent systems easier to trust after they leave the demo stage?
 
-Most of my projects contribute to a broader research direction: moving AI systems from impressive demonstrations to reliable engineering systems.
-
----
+I am especially interested in systems that can detect failures, explain agent behavior, replay regressions, and improve through measured feedback rather than vague self-correction.
 
 ## Research Direction
 
-I'm currently interested in problems around:
+I am currently exploring:
 
-- AI agent evaluation and diagnostics
-- LLM reliability, safety, and observability
-- Agent architectures and orchestration
-- AI systems infrastructure
-- Compiler-inspired approaches for intelligent systems
-- Production deployment of GenAI applications
-
----
-
-## What I'm Building
-
-Rather than building isolated applications, I'm exploring a connected set of problems around trustworthy AI systems.
-
-- Detecting failures before they reach production
-- Explaining why autonomous agents fail
-- Improving reliability through evaluation
-- Building infrastructure for production LLM applications
-- Designing systems that learn from execution instead of repetition
-
----
+- LLM reliability and failure analysis
+- AI agent diagnostics and evaluation
+- Agent architectures that learn from execution traces
+- Regression testing for prompts, tools, and model changes
+- Observability infrastructure for production AI systems
+- Compiler-inspired approaches to verification and transformation
 
 ## Engineering Philosophy
 
-I enjoy building systems that are
+I prefer AI systems that are:
 
 - observable before they are autonomous
 - measurable before they are impressive
 - reproducible before they are optimized
-- simple in design but rigorous in evaluation
+- evaluated by behavior, not just benchmarks
 
-I care as much about understanding **why** a system behaves a certain way as improving its benchmark scores.
+I care about building systems that explain why they fail, not just systems that look good when they succeed.
 
----
+## Current Focus
 
-## Selected Work
+I am working on reliability infrastructure for AI agents: trace replay, failure diagnosis, prompt regression testing, evaluation harnesses, and runtime observability.
 
-**LLM Reliability**
+Pinned repositories below show the systems and experiments behind this direction.
 
-Building infrastructure for failure detection, safety evaluation, and production monitoring.
+## Contact
 
-**AI Agent Diagnostics**
-
-Researching systems that explain behavioural failures in autonomous agents instead of simply reporting success or failure.
-
-**AI Systems Research**
-
-Exploring compiler-inspired techniques, evaluation frameworks, and runtime architectures that improve the reliability and efficiency of intelligent systems.
-
----
-
-## Technologies I Work With
-
-```text
-Python • PyTorch • FastAPI • LangGraph • DSPy
-Transformers • Docker • Google Cloud • React
-MongoDB • GitHub Actions • SQL
-```
-
----
-
-## Publications & Open Source
-
-I enjoy publishing research alongside software whenever possible. Most of my work is released as open-source libraries, technical writing, and reproducible engineering systems rather than isolated experiments.
-
----
-
-## GitHub Activity
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AyushSingh110&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AyushSingh110&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSingh110&layout=compact&hide_border=true"/>
-
-</p>
-
----
-
-## Connect
-
-<p align="left">
-
-<a href="https://linkedin.com/in/ayush-singh-27a589285">LinkedIn</a> •
-<a href="mailto:ayushsingh15vns@gmail.com">Email</a>
-
-</p>
+[Portfolio](https://portfolio.ayushsingh355vns.workers.dev/) · [LinkedIn](https://linkedin.com/in/ayush-singh-27a589285) · [Email](mailto:ayushsingh15vns@gmail.com)
