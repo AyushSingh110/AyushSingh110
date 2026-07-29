@@ -37,3 +37,11 @@ Pinned repositories below show the systems and experiments behind this direction
 ## Contact
 
 [Portfolio](https://portfolio.ayushsingh355vns.workers.dev/) · [LinkedIn](https://linkedin.com/in/ayush-singh-27a589285) · [Email](mailto:ayushsingh15vns@gmail.com)
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushSingh110/AyushSingh110/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushSingh110/AyushSingh110/output/github-snake.svg" />
+  <img alt="GitHub contribution activity" src="https://raw.githubusercontent.com/AyushSingh110/AyushSingh110/output/github-snake.svg" />
+</picture>
