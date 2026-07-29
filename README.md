@@ -1,47 +1,32 @@
 # Ayush Singh
 
-I build AI systems focused on **LLM reliability, agent evaluation, observability, and production GenAI infrastructure**.
+I build infrastructure that makes LLM and agent systems reliable: evaluation harnesses, trace replay, failure diagnosis, and runtime observability.
 
-My work centers on a single question: how do we make intelligent systems easier to trust after they leave the demo stage?
-
-I am especially interested in systems that can detect failures, explain agent behavior, replay regressions, and improve through measured feedback rather than vague self-correction.
+Most AI systems are judged on how they look when they succeed. I am more interested in what they do when they fail, and whether that failure can be reproduced, explained, and caught again before it ships.
 
 ## Research Direction
 
-I am currently exploring:
-
-- LLM reliability and failure analysis
-- AI agent diagnostics and evaluation
-- Agent architectures that learn from execution traces
-- Regression testing for prompts, tools, and model changes
-- Observability infrastructure for production AI systems
-- Compiler-inspired approaches to verification and transformation
+- Failure analysis and diagnostics for LLM agents
+- Evaluation harnesses and regression testing across prompt, model, and tool changes
+- Trace replay and execution-level debugging of agent runs
+- Observability for GenAI systems in production
+- Compiler-inspired program analysis applied to agent behavior
 
 ## Engineering Philosophy
 
-I prefer AI systems that are:
+The systems I build aim to be:
 
-- observable before they are autonomous
-- measurable before they are impressive
-- reproducible before they are optimized
-- evaluated by behavior, not just benchmarks
+- observable before autonomous
+- measurable before impressive
+- reproducible before optimized
+- evaluated on behavior, not benchmark scores
 
-I care about building systems that explain why they fail, not just systems that look good when they succeed.
+## Current Work
 
-## Current Focus
+Reliability infrastructure for AI agents: trace replay, failure diagnosis, prompt and tool regression testing, evaluation harnesses, and runtime observability.
 
-I am working on reliability infrastructure for AI agents: trace replay, failure diagnosis, prompt regression testing, evaluation harnesses, and runtime observability.
-
-Pinned repositories below show the systems and experiments behind this direction.
+Pinned repositories below show the current state of that work.
 
 ## Contact
 
 [Portfolio](https://portfolio.ayushsingh355vns.workers.dev/) · [LinkedIn](https://linkedin.com/in/ayush-singh-27a589285) · [Email](mailto:ayushsingh15vns@gmail.com)
-
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushSingh110/AyushSingh110/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushSingh110/AyushSingh110/output/github-snake.svg" />
-  <img alt="GitHub contribution activity" src="https://raw.githubusercontent.com/AyushSingh110/AyushSingh110/output/github-snake.svg" />
-</picture>
