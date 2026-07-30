@@ -29,7 +29,7 @@ The systems I build aim to be:
 
 ## Current Work
 
-Reliability infrastructure for AI agents: trace replay, failure diagnosis, prompt and tool regression testing, evaluation harnesses, and runtime observability.
+Reliability infrastructure for AI agents: trace replay, failure diagnosis, prompt and tool regression testing, evaluation harnesses and runtime observability.
 
 Pinned repositories below show the current state of that work.
 
